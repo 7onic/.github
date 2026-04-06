@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://7onic.design/favicon.svg" width="64" />
+  <img src="https://7onic.design/icon.svg" width="64" />
 </p>
 
 <h1 align="center">7onic</h1>
