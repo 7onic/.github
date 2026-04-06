@@ -1,3 +1,14 @@
+
+<p align="center">
+  <img src="https://7onic.design/favicon.svg" width="64" />
+</p>
+
+<h1 align="center">7onic</h1>
+
+<p align="center">
+Independent platform building design systems and AI-native products.
+</p>
+
 # 7onic
 
 Independent platform building design systems and AI-native products.
